@@ -1,0 +1,15 @@
+{
+  "name": "gestion-stock",
+  "version": "1.0.0",
+  "description": "Application de gestion de stock, ventes et finance pour boutique",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@libsql/client": "^0.14.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
